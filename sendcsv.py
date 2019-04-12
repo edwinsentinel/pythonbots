@@ -11,7 +11,7 @@ sender_email = "wawerupytedu12@gmail.com"
 receiver_email = "waweruedwin2@gmail.com"
 password = input("Type your password and press enter:")
 
-# Create a multipart message and set headersVersman1Versman1
+# Create a multipart message and set headers
 
 message = MIMEMultipart()
 message["From"] = sender_email

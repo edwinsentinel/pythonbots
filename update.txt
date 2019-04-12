@@ -1,0 +1,2 @@
+Before updating record (14, 'hp', datetime.date(2019, 4, 2), '10')
+After updating record (14, 'hp', datetime.date(2019, 4, 2), '35')
